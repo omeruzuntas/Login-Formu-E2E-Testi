@@ -1,0 +1,1 @@
+Teknolojik Yemekler - Login Formu E2E TestiBu proje, bir login formunun tasarlanması, validasyonlarının eklenmesi ve Cypress kullanılarak E2E (End-to-End) testlerin yazılması üzerine odaklanmıştır. Proje özellikle yeni başlayan geliştiricilere modern çerçeveler ve test tekniklerini uygulama fırsatı sunmayı amaçlar.
